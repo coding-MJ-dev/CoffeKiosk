@@ -9,6 +9,7 @@ This coffee shop management kiosk program written by C# & .NET progrmaing
 4) chashier
 
 **2. Function**
+
 **1)Add/edit/Delete menu**
 - Adding a New Season Menu
 - Edit price due to price fluctuations
